@@ -24,7 +24,7 @@ const collectionName = 'logs';
 
 function detect(log) {
   let startTime = log[0].requestTime;
-  let endTime = new Date(startTime.getTime() + (60000));
+  let endTime = new Date(startTime.getTime() + (30000));
   const lastTime = log[log.length - 1].requestTime;
 
   let top = [];
