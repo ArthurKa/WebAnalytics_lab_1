@@ -1,0 +1,690 @@
+[
+  {
+    "remoteHost": "10.0.0.153",
+    "operationsPerInterval": 28
+  },
+  {
+    "remoteHost": "ts04-ip92.hevanet.com",
+    "operationsPerInterval": 22
+  },
+  {
+    "remoteHost": "h24-70-69-74.ca.shawcable.net",
+    "operationsPerInterval": 21
+  },
+  {
+    "remoteHost": "market-mail.panduit.com",
+    "operationsPerInterval": 18
+  },
+  {
+    "remoteHost": "ip68-228-43-49.tc.ph.cox.net",
+    "operationsPerInterval": 18
+  },
+  {
+    "remoteHost": "proxy0.haifa.ac.il",
+    "operationsPerInterval": 16
+  },
+  {
+    "remoteHost": "lhr003a.dhl.com",
+    "operationsPerInterval": 13
+  },
+  {
+    "remoteHost": "200-55-104-193.dsl.prima.net.ar",
+    "operationsPerInterval": 13
+  },
+  {
+    "remoteHost": "203.147.138.233",
+    "operationsPerInterval": 13
+  },
+  {
+    "remoteHost": "216-160-111-121.tukw.qwest.net",
+    "operationsPerInterval": 12
+  },
+  {
+    "remoteHost": "ns.wtbts.org",
+    "operationsPerInterval": 12
+  },
+  {
+    "remoteHost": "mail.geovariances.fr",
+    "operationsPerInterval": 10
+  },
+  {
+    "remoteHost": "3_343_lt_someone",
+    "operationsPerInterval": 10
+  },
+  {
+    "remoteHost": "207.195.59.160",
+    "operationsPerInterval": 9
+  },
+  {
+    "remoteHost": "prxint-sxb3.e-i.net",
+    "operationsPerInterval": 8
+  },
+  {
+    "remoteHost": "cpe-203-51-137-224.vic.bigpond.net.au",
+    "operationsPerInterval": 8
+  },
+  {
+    "remoteHost": "h24-70-56-49.ca.shawcable.net",
+    "operationsPerInterval": 7
+  },
+  {
+    "remoteHost": "208-38-57-205.ip.cal.radiant.net",
+    "operationsPerInterval": 7
+  },
+  {
+    "remoteHost": "jacksonproject.cnc.bc.ca",
+    "operationsPerInterval": 7
+  },
+  {
+    "remoteHost": "pc3-registry-stockholm.telia.net",
+    "operationsPerInterval": 7
+  },
+  {
+    "remoteHost": "142.27.64.35",
+    "operationsPerInterval": 7
+  },
+  {
+    "remoteHost": "1-729.cnc.bc.ca",
+    "operationsPerInterval": 7
+  },
+  {
+    "remoteHost": "h24-71-249-14.ca.shawcable.net",
+    "operationsPerInterval": 6
+  },
+  {
+    "remoteHost": "p213.54.168.132.tisdip.tiscali.de",
+    "operationsPerInterval": 6
+  },
+  {
+    "remoteHost": "212.92.37.62",
+    "operationsPerInterval": 6
+  },
+  {
+    "remoteHost": "fw1.millardref.com",
+    "operationsPerInterval": 6
+  },
+  {
+    "remoteHost": "c-24-20-163-223.client.comcast.net",
+    "operationsPerInterval": 6
+  },
+  {
+    "remoteHost": "h24-71-236-129.ca.shawcable.net",
+    "operationsPerInterval": 6
+  },
+  {
+    "remoteHost": "ogw.netinfo.bg",
+    "operationsPerInterval": 6
+  },
+  {
+    "remoteHost": "spot.nnacorp.com",
+    "operationsPerInterval": 5
+  },
+  {
+    "remoteHost": "195.246.13.119",
+    "operationsPerInterval": 5
+  },
+  {
+    "remoteHost": "ts05-ip44.hevanet.com",
+    "operationsPerInterval": 5
+  },
+  {
+    "remoteHost": "128.227.88.79",
+    "operationsPerInterval": 4
+  },
+  {
+    "remoteHost": "mcl02.cnc.bc.ca",
+    "operationsPerInterval": 4
+  },
+  {
+    "remoteHost": "barrie-ppp108371.sympatico.ca",
+    "operationsPerInterval": 4
+  },
+  {
+    "remoteHost": "user-0c8hdkf.cable.mindspring.com",
+    "operationsPerInterval": 4
+  },
+  {
+    "remoteHost": "1-320.cnc.bc.ca",
+    "operationsPerInterval": 4
+  },
+  {
+    "remoteHost": "trrc02m01-40.bctel.ca",
+    "operationsPerInterval": 4
+  },
+  {
+    "remoteHost": "yongsan-cache.korea.army.mil",
+    "operationsPerInterval": 4
+  },
+  {
+    "remoteHost": "80.58.14.235.proxycache.rima-tde.net",
+    "operationsPerInterval": 4
+  },
+  {
+    "remoteHost": "ic8234.upco.es",
+    "operationsPerInterval": 4
+  },
+  {
+    "remoteHost": "194.151.73.43",
+    "operationsPerInterval": 4
+  },
+  {
+    "remoteHost": "208.247.148.12",
+    "operationsPerInterval": 4
+  },
+  {
+    "remoteHost": "cr020r01-3.sac.overture.com",
+    "operationsPerInterval": 4
+  },
+  {
+    "remoteHost": "2-110.cnc.bc.ca",
+    "operationsPerInterval": 4
+  },
+  {
+    "remoteHost": "145.253.208.9",
+    "operationsPerInterval": 4
+  },
+  {
+    "remoteHost": "61.165.64.6",
+    "operationsPerInterval": 4
+  },
+  {
+    "remoteHost": "61.9.4.61",
+    "operationsPerInterval": 3
+  },
+  {
+    "remoteHost": "pool-68-160-195-60.ny325.east.verizon.net",
+    "operationsPerInterval": 3
+  },
+  {
+    "remoteHost": "92-moc-6.acn.waw.pl",
+    "operationsPerInterval": 3
+  },
+  {
+    "remoteHost": "65-37-13-251.nrp2.roc.ny.frontiernet.net",
+    "operationsPerInterval": 3
+  },
+  {
+    "remoteHost": "mth-fgw.ballarat.edu.au",
+    "operationsPerInterval": 3
+  },
+  {
+    "remoteHost": "dialup-5-81.tulane.edu",
+    "operationsPerInterval": 3
+  },
+  {
+    "remoteHost": "ns3.vonroll.ch",
+    "operationsPerInterval": 3
+  },
+  {
+    "remoteHost": "ladybug.cns.vt.edu",
+    "operationsPerInterval": 3
+  },
+  {
+    "remoteHost": "wc09.mtnk.rnc.net.cable.rogers.com",
+    "operationsPerInterval": 3
+  },
+  {
+    "remoteHost": "80.58.33.42.proxycache.rima-tde.net",
+    "operationsPerInterval": 3
+  },
+  {
+    "remoteHost": "67.131.107.5",
+    "operationsPerInterval": 3
+  },
+  {
+    "remoteHost": "64.242.88.10",
+    "operationsPerInterval": 2
+  },
+  {
+    "remoteHost": "d207-6-9-183.bchsia.telus.net",
+    "operationsPerInterval": 2
+  },
+  {
+    "remoteHost": "dsl-80-43-113-44.access.uk.tiscali.com",
+    "operationsPerInterval": 2
+  },
+  {
+    "remoteHost": "200.160.249.68.bmf.com.br",
+    "operationsPerInterval": 2
+  },
+  {
+    "remoteHost": "68-174-110-154.nyc.rr.com",
+    "operationsPerInterval": 2
+  },
+  {
+    "remoteHost": "fw.aub.dk",
+    "operationsPerInterval": 2
+  },
+  {
+    "remoteHost": "c-24-11-14-147.client.comcast.net",
+    "operationsPerInterval": 2
+  },
+  {
+    "remoteHost": "acbf6930.ipt.aol.com",
+    "operationsPerInterval": 2
+  },
+  {
+    "remoteHost": "fw.kcm.org",
+    "operationsPerInterval": 2
+  },
+  {
+    "remoteHost": "grandpa.mmlc.northwestern.edu",
+    "operationsPerInterval": 2
+  },
+  {
+    "remoteHost": "adsl-157-26-153.msy.bellsouth.net",
+    "operationsPerInterval": 2
+  },
+  {
+    "remoteHost": "watchguard.cgmatane.qc.ca",
+    "operationsPerInterval": 2
+  },
+  {
+    "remoteHost": "ppp2.p33.is.com.ua",
+    "operationsPerInterval": 2
+  },
+  {
+    "remoteHost": "spica.ukc.ac.uk",
+    "operationsPerInterval": 2
+  },
+  {
+    "remoteHost": "208-186-146-13.nrp3.brv.mn.frontiernet.net",
+    "operationsPerInterval": 2
+  },
+  {
+    "remoteHost": "0x503e4fce.virnxx2.adsl-dhcp.tele.dk",
+    "operationsPerInterval": 2
+  },
+  {
+    "remoteHost": "archserve.id.ucsb.edu",
+    "operationsPerInterval": 2
+  },
+  {
+    "remoteHost": "crawl24-public.alexa.com",
+    "operationsPerInterval": 2
+  },
+  {
+    "remoteHost": "lordgun.org",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "lj1036.inktomisearch.com",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "lj1090.inktomisearch.com",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "lj1125.inktomisearch.com",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "80-219-148-207.dclient.hispeed.ch",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "206-15-133-181.dialup.ziplink.net",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "mmscrm07-2.sac.overture.com",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "bh02i525f01.au.ibm.com",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "calcite.rhyolite.com",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "lj1088.inktomisearch.com",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "lj1089.inktomisearch.com",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "lj1016.inktomisearch.com",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "lj1025.inktomisearch.com",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "prxint-sxb2.e-i.net",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "rouble.cc.strath.ac.uk",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "213.181.81.4",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "lj1159.inktomisearch.com",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "66-194-6-70.gen.twtelecom.net",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "lj1027.inktomisearch.com",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "p5083cd5d.dip0.t-ipconnect.de",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "219.95.17.51",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "66.213.206.2",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "lj1156.inktomisearch.com",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "lj1164.inktomisearch.com",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "ip-200-56-225-61-mty.marcatel.net.mx",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "lj1168.inktomisearch.com",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "lj1018.inktomisearch.com",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "px7wh.vc.shawcable.net",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "lj1053.inktomisearch.com",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "64.246.94.152",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "alille-251-1-2-197.w82-124.abo.wanadoo.fr",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "a213-84-36-192.adsl.xs4all.nl",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "lj1052.inktomisearch.com",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "lj1162.inktomisearch.com",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "195.230.181.122",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "lj1007.inktomisearch.com",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "80.58.35.111.proxycache.rima-tde.net",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "200.222.33.33",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "l07v-1-17.d1.club-internet.fr",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "wwwcache.lanl.gov",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "lj1048.inktomisearch.com",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "lj1031.inktomisearch.com",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "h194n2fls308o1033.telia.com",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "home.yeungs.net",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "lj1123.inktomisearch.com",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "206-15-133-153.dialup.ziplink.net",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "lj1061.inktomisearch.com",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "korell2.cc.gatech.edu",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "2-238.cnc.bc.ca",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "lj1153.inktomisearch.com",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "66-194-6-79.gen.twtelecom.net",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "lj1231.inktomisearch.com",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "212.21.228.26",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "pd9e761cf.dip.t-dialin.net",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "lj1160.inktomisearch.com",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "nb-bolz.cremona.polimi.it",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "pc-030-040.eco.rug.nl",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "pd9e50809.dip.t-dialin.net",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "lj1145.inktomisearch.com",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "cacher2-ext.wise.edt.ericsson.se",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "adsl-64-173-42-65.dsl.snfc21.pacbell.net",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "ns.mou.cz",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "lj1117.inktomisearch.com",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "lj1216.inktomisearch.com",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "c-411472d5.04-138-73746f22.cust.bredbandsbolaget.se",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "lj1024.inktomisearch.com",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "lj1028.inktomisearch.com",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "h24-68-45-227.gv.shawcable.net",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "64.246.94.141",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "pntn02m05-129.bctel.ca",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "lj1073.inktomisearch.com",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "lj1000.inktomisearch.com",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "lj1220.inktomisearch.com",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "lj1120.inktomisearch.com",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "1513.cps.virtua.com.br",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "osdlab.eic.nctu.edu.tw",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "64-93-34-186.client.dsl.net",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "d207-6-50-215.bchsia.telus.net",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "4.37.97.186",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "12.22.207.235",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "lj1212.inktomisearch.com",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "lj1008.inktomisearch.com",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "64-249-27-114.client.dsl.net",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "pd9eb1396.dip.t-dialin.net",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "lj1105.inktomisearch.com",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "wc03.mtnk.rnc.net.cable.rogers.com",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "206-15-133-154.dialup.ziplink.net",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "ipcorp-c8b07af1.terraempresas.com.br",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "lj1223.inktomisearch.com",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "66-194-6-71.gen.twtelecom.net",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "195.11.231.210",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "lj1115.inktomisearch.com",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "vlp181.vlp.fi",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "216.139.185.45",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "pd95f99f2.dip.t-dialin.net",
+    "operationsPerInterval": 1
+  },
+  {
+    "remoteHost": "d97082.upc-d.chello.nl",
+    "operationsPerInterval": 1
+  }
+]
